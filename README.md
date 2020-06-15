@@ -1,2 +1,2 @@
-# PDP
-Projet de Programmation Master 1
+# Jeu BattleShip
+Projet Orientation Object Java Licence 3
