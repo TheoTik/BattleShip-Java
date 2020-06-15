@@ -1,0 +1,24 @@
+Rules : You are the red planet and you want to capture all the blue planets ( controlled by an AI ).
+
+To complete your mission you can : click on your planet to select it,
+scroll the number of ships that you want to send, ( not in percentage ) 
+Then, you can select the planet where you want to send your squadron by releasing your mouse inside it.
+When the squadron is moving you can select a ship ( a red square will appear ) and his squadron ( a yellow square for the rest of the squadron). 
+You can deselect your ship by clicking on it. 
+Then, by clicking on a planet you can switch their planet target. 
+All the ships that still moving will change their target, but if the red square go inside a planet, the whole squadron will be not selected anymore.
+
+You will have four button on the menu ( represnted by circles ), the first one to play the game, 
+the second to save your game, the third to leave and the last to load a save. 
+Three button will be in the down left corner when you are playing. 
+The first one to pause the game and return to the menu.
+The second to save and return to the menu.
+The third to leave the game. 
+It would have been more fitting to use button in place of circle.
+
+Good luck and don't let the AI beat you. It have no time to wait for you!
+
+Some ships can't move because of our way to avoid a planet. They stay into an infinite loop
+When one of them is blocked, sometimes, the save/load don't display a planet. 
+If your planet select is capture, you can still launch ships from this planet , but the ship will not be yours. 
+To solve this, we just need to check when the ship are send if the planet is still yours. 
