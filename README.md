@@ -1,2 +1,2 @@
 # Jeu BattleShip
-Projet Orientation Object Java Licence 3
+Projet Orientation Objet Java Licence 3
